@@ -1,0 +1,774 @@
+{
+  "normalization_required": true,
+  "original_jar_sha256": "9b80f20b54edbc73afb0c060b0c6785c32bd48d33b984d5f96a12f7c4bf9fde0",
+  "classes": [
+    {
+      "original_jar_sha256": "9b80f20b54edbc73afb0c060b0c6785c32bd48d33b984d5f96a12f7c4bf9fde0",
+      "original_class_sha256": "9e0b257ca07c45f51c2e300ad04a8d161f7329d30269ad2e20000b88e58b1736",
+      "original_inventory": {
+        "owner": "com/aspose/slides/internal/b7/t0",
+        "superclass": "com/aspose/slides/internal/b7/h8",
+        "interfaces": [],
+        "flags": 49,
+        "fields": [
+          [
+            18,
+            "n5",
+            "Lcom/aspose/slides/internal/b7/h4;"
+          ]
+        ],
+        "methods": [
+          [
+            16,
+            "n5",
+            "(Lcom/aspose/slides/internal/b7/h8;)V"
+          ],
+          [
+            2,
+            "n5",
+            "()V"
+          ]
+        ]
+      },
+      "scaffold_descriptor": "(Lcom/aspose/slides/internal/b7/n4;Lcom/aspose/slides/internal/b7/t0;Lcom/aspose/slides/internal/b7/h4;)V",
+      "source_sha256": "7177ee08db51f9cbd1d8912b9699a49a1f9eccc203143b9b27570ffa23a37038",
+      "normalization_required": true
+    },
+    {
+      "original_inventory": {
+        "owner": "com/aspose/slides/Collections/Generic/RBTree$1",
+        "superclass": "java/lang/Object",
+        "interfaces": [
+          "com/aspose/slides/Collections/Generic/IGenericEnumerable"
+        ],
+        "flags": 32,
+        "fields": [
+          [
+            4112,
+            "n5",
+            "Lcom/aspose/slides/Collections/Generic/RBTree;"
+          ]
+        ],
+        "methods": [
+          [
+            1,
+            "iterator",
+            "()Lcom/aspose/slides/Collections/Generic/IGenericEnumerator;"
+          ],
+          [
+            4161,
+            "iterator",
+            "()Lcom/aspose/slides/Collections/IEnumerator;"
+          ],
+          [
+            4161,
+            "iterator",
+            "()Ljava/util/Iterator;"
+          ]
+        ]
+      },
+      "original_class_sha256": "97ae00249869c65023d50b2e788b0c2585c3b029bd4f5553807d0ea109c6f395",
+      "scaffold_descriptor": "(Lcom/aspose/slides/Collections/Generic/RBTree;)V",
+      "source_sha256": "1f9bd4e0a3d97ae756bb999eeaf648359c307828f619505eb8f81d1cc366a25d",
+      "normalization_required": true,
+      "scaffold_kind": "private-complete-member-removal"
+    },
+    {
+      "original_inventory": {
+        "owner": "com/aspose/slides/internal/e1/j5",
+        "superclass": "com/aspose/slides/internal/e1/m3",
+        "interfaces": [],
+        "flags": 33,
+        "fields": [
+          [
+            2,
+            "n5",
+            "Lcom/aspose/slides/internal/o9b/w1;"
+          ],
+          [
+            18,
+            "l6",
+            "I"
+          ],
+          [
+            18,
+            "k5",
+            "Ljava/lang/String;"
+          ]
+        ],
+        "methods": [
+          [
+            17,
+            "n5",
+            "()Lcom/aspose/slides/internal/o9b/w1;"
+          ],
+          [
+            17,
+            "n5",
+            "(Lcom/aspose/slides/internal/o9b/w1;)V"
+          ],
+          [
+            17,
+            "l6",
+            "()I"
+          ],
+          [
+            17,
+            "k5",
+            "()Ljava/lang/String;"
+          ]
+        ]
+      },
+      "original_class_sha256": "fc5b4c331b17622ea68e5f13f813d78835339656eb0f8638b7bb3adbe4c83fbb",
+      "scaffold_descriptor": "(ILjava/lang/String;)V",
+      "source_sha256": "f7a768ab6610d79b78a3ac225e1ccb7eeecf16abe1acdf242c18c773fe7488c5",
+      "normalization_required": true,
+      "scaffold_kind": "private-complete-member-removal"
+    },
+    {
+      "original_inventory": {
+        "owner": "com/aspose/slides/internal/e1/u9",
+        "superclass": "com/aspose/slides/internal/e1/m3",
+        "interfaces": [],
+        "flags": 33,
+        "fields": [
+          [
+            2,
+            "n5",
+            "Lcom/aspose/slides/internal/o9b/w1;"
+          ],
+          [
+            18,
+            "l6",
+            "Ljava/lang/String;"
+          ]
+        ],
+        "methods": [
+          [
+            17,
+            "n5",
+            "()Lcom/aspose/slides/internal/o9b/w1;"
+          ],
+          [
+            17,
+            "n5",
+            "(Lcom/aspose/slides/internal/o9b/w1;)V"
+          ],
+          [
+            17,
+            "l6",
+            "()Ljava/lang/String;"
+          ],
+          [
+            17,
+            "k5",
+            "()Z"
+          ]
+        ]
+      },
+      "original_class_sha256": "eb348d30ee3d4c2dc4c7052c9c6cf020f30056fe78b2106e8a4ad23e911a2795",
+      "scaffold_descriptor": "(Ljava/lang/String;)V",
+      "source_sha256": "21563e9154afe5f949eeb62b2a231b53eb632be8eedc78fb512cf3dbb55e30e4",
+      "normalization_required": true,
+      "scaffold_kind": "private-complete-member-removal"
+    },
+    {
+      "original_inventory": {
+        "owner": "com/aspose/slides/internal/e6s/u9$1",
+        "superclass": "com/aspose/slides/internal/e6s/u9$n5",
+        "interfaces": [],
+        "flags": 32,
+        "fields": [],
+        "methods": [
+          [
+            1,
+            "getDelegateId",
+            "()Ljava/lang/String;"
+          ],
+          [
+            1,
+            "n5",
+            "(Ljava/lang/Object;Ljava/lang/String;)Lcom/aspose/slides/ms/System/Xml/c7;"
+          ]
+        ]
+      },
+      "original_class_sha256": "d3fed0e7ff98ee1845d478213205afdaac01a066886d4b8a24036e15a6dda3fa",
+      "scaffold_descriptor": "(Lcom/aspose/slides/internal/e6s/u9$1;)V",
+      "source_sha256": "defadcea1b8d4765dfeaf8e0d3a95501ce4222a4141587235ee66cdc86104f6d",
+      "normalization_required": true,
+      "scaffold_kind": "private-complete-member-removal"
+    },
+    {
+      "original_inventory": {
+        "owner": "com/aspose/slides/internal/f7v/t2",
+        "superclass": "com/aspose/slides/internal/f7v/u9",
+        "interfaces": [],
+        "flags": 33,
+        "fields": [
+          [
+            18,
+            "k5",
+            "Ljava/util/List;"
+          ]
+        ],
+        "methods": [
+          [
+            1,
+            "toString",
+            "()Ljava/lang/String;"
+          ]
+        ]
+      },
+      "original_class_sha256": "2f48873e42767f14a8a838ba95c0167802b8063e6f21c702a12f5d1b22e708c7",
+      "scaffold_descriptor": "(Lcom/aspose/slides/internal/c5e/l6;Ljava/util/List;)V",
+      "source_sha256": "0ec04daf455aa70d0c88d4cd263f16c92d53a7ff99fa468a09005239470d0a1c",
+      "normalization_required": true,
+      "scaffold_kind": "private-complete-member-removal"
+    },
+    {
+      "original_inventory": {
+        "owner": "com/aspose/slides/internal/g7e/u3",
+        "superclass": "java/lang/Object",
+        "interfaces": [],
+        "flags": 33,
+        "fields": [
+          [
+            18,
+            "n5",
+            "I"
+          ],
+          [
+            2,
+            "l6",
+            "I"
+          ],
+          [
+            2,
+            "k5",
+            "D"
+          ],
+          [
+            2,
+            "u3",
+            "I"
+          ],
+          [
+            2,
+            "a6",
+            "I"
+          ],
+          [
+            2,
+            "u9",
+            "I"
+          ]
+        ],
+        "methods": [
+          [
+            17,
+            "n5",
+            "()I"
+          ],
+          [
+            17,
+            "l6",
+            "()D"
+          ],
+          [
+            17,
+            "k5",
+            "()I"
+          ],
+          [
+            17,
+            "u3",
+            "()I"
+          ],
+          [
+            17,
+            "a6",
+            "()I"
+          ],
+          [
+            17,
+            "u9",
+            "()I"
+          ],
+          [
+            17,
+            "n5",
+            "(I)V"
+          ],
+          [
+            17,
+            "h0",
+            "()I"
+          ]
+        ]
+      },
+      "original_class_sha256": "4da29734a2ead54aaed19edb742b6d839d61ac13333ff92bccb266f657b12cb5",
+      "scaffold_descriptor": "(I)V",
+      "source_sha256": "3307c3a1d9f965a4ba83251fa2ecbcfb79f3fd5c4bd97100e4aec4fa28931a0e",
+      "normalization_required": true,
+      "scaffold_kind": "private-complete-member-removal"
+    },
+    {
+      "original_inventory": {
+        "owner": "com/aspose/slides/internal/l7/a6$n5",
+        "superclass": "com/aspose/slides/internal/l7/l6$n5",
+        "interfaces": [],
+        "flags": 1057,
+        "fields": [],
+        "methods": []
+      },
+      "original_class_sha256": "a29d1ff0ab9a3fb8055156b8a1058d7e07159571278c72b2fc18ae76d2a856ff",
+      "scaffold_descriptor": "(Lcom/aspose/slides/internal/m9/c8;)V",
+      "source_sha256": "4c89d487df56abf745fb7cc938ba072c89d4f6828838a465d5f4ba258e3be242",
+      "normalization_required": true,
+      "scaffold_kind": "private-complete-member-removal",
+      "scaffold_access": 4
+    },
+    {
+      "original_inventory": {
+        "owner": "com/aspose/slides/internal/p3/y4$l6",
+        "superclass": "com/aspose/slides/internal/p3/j8",
+        "interfaces": [],
+        "flags": 33,
+        "fields": [
+          [
+            2,
+            "n5",
+            "I"
+          ],
+          [
+            2,
+            "l6",
+            "I"
+          ]
+        ],
+        "methods": [
+          [
+            17,
+            "n5",
+            "()I"
+          ],
+          [
+            17,
+            "l6",
+            "()I"
+          ]
+        ]
+      },
+      "original_class_sha256": "35e8c707c8087fa49c36dbbe96976443dadee65600e27517905ad58866ad2959",
+      "scaffold_descriptor": "(Lcom/aspose/slides/internal/p3/y2;)V",
+      "source_sha256": "7aae653664b38ca75694748981f7216b14023463c57acd8ba81978a91beccdbd",
+      "normalization_required": true,
+      "scaffold_kind": "private-complete-member-removal"
+    },
+    {
+      "original_inventory": {
+        "owner": "com/aspose/slides/internal/q5/n5",
+        "superclass": "com/aspose/slides/internal/l7/a6",
+        "interfaces": [],
+        "flags": 1057,
+        "fields": [
+          [
+            4,
+            "l6",
+            "I"
+          ],
+          [
+            4,
+            "k5",
+            "Lcom/aspose/slides/internal/q5/l6;"
+          ]
+        ],
+        "methods": [
+          [
+            17,
+            "k5",
+            "()I"
+          ],
+          [
+            17,
+            "u3",
+            "()Lcom/aspose/slides/internal/q5/l6;"
+          ],
+          [
+            1,
+            "toString",
+            "()Ljava/lang/String;"
+          ],
+          [
+            17,
+            "n5",
+            "(Lcom/aspose/slides/internal/q5/n5;)Z"
+          ],
+          [
+            1,
+            "equals",
+            "(Ljava/lang/Object;)Z"
+          ],
+          [
+            1,
+            "hashCode",
+            "()I"
+          ]
+        ]
+      },
+      "original_class_sha256": "86f6864ab898448974066a379927cd3e9b49c320a878313d7bf77c89509cd5a3",
+      "scaffold_descriptor": "(Lcom/aspose/slides/internal/m9/h0;)V",
+      "source_sha256": "ec5ea86c0067fa8321fb25f5ff19b8358ddf058865c628354eb63ac223e5b1de",
+      "normalization_required": true,
+      "scaffold_kind": "private-complete-member-removal"
+    },
+    {
+      "original_inventory": {
+        "owner": "com/aspose/slides/internal/s4/k5",
+        "superclass": "java/lang/Object",
+        "interfaces": [
+          "com/aspose/slides/ms/System/a5"
+        ],
+        "flags": 33,
+        "fields": [
+          [
+            18,
+            "n5",
+            "Z"
+          ],
+          [
+            18,
+            "l6",
+            "Ljava/lang/String;"
+          ],
+          [
+            18,
+            "k5",
+            "Lcom/aspose/slides/internal/n1/l6;"
+          ]
+        ],
+        "methods": [
+          [
+            17,
+            "n5",
+            "()Ljava/lang/String;"
+          ],
+          [
+            17,
+            "l6",
+            "()Lcom/aspose/slides/internal/n1/l6;"
+          ],
+          [
+            17,
+            "k5",
+            "()Z"
+          ],
+          [
+            1,
+            "hashCode",
+            "()I"
+          ],
+          [
+            17,
+            "n5",
+            "(Lcom/aspose/slides/internal/s4/k5;)Z"
+          ],
+          [
+            1,
+            "equals",
+            "(Ljava/lang/Object;)Z"
+          ]
+        ]
+      },
+      "original_class_sha256": "348bc4538d8ed600710fa2388f347de66da42e7ebc6576bcbb0a94b20d5c50a3",
+      "scaffold_descriptor": "(ZLjava/lang/String;Lcom/aspose/slides/internal/n1/l6;)V",
+      "source_sha256": "f419771d6a341541920b0c92b0390d591d6a80900d3cf569432ff0f23e3f4ca0",
+      "normalization_required": true,
+      "scaffold_kind": "private-complete-member-removal"
+    },
+    {
+      "original_inventory": {
+        "owner": "com/aspose/slides/internal/s5/a6",
+        "superclass": "java/lang/Object",
+        "interfaces": [],
+        "flags": 33,
+        "fields": [
+          [
+            18,
+            "n5",
+            "Lcom/aspose/slides/internal/p1s/n5;"
+          ],
+          [
+            18,
+            "l6",
+            "Lcom/aspose/slides/internal/p1s/n5;"
+          ]
+        ],
+        "methods": [
+          [
+            17,
+            "n5",
+            "()Lcom/aspose/slides/internal/p1s/n5;"
+          ],
+          [
+            17,
+            "l6",
+            "()Lcom/aspose/slides/internal/p1s/n5;"
+          ],
+          [
+            17,
+            "n5",
+            "(Lcom/aspose/slides/internal/p1s/n5;)Z"
+          ],
+          [
+            1,
+            "hashCode",
+            "()I"
+          ]
+        ]
+      },
+      "original_class_sha256": "942358e0e4f2d21f86d1d35b5f984849aaff109f752e8be813ed146ba1070e22",
+      "scaffold_descriptor": "(Lcom/aspose/slides/internal/p1s/n5;Lcom/aspose/slides/internal/p1s/n5;)V",
+      "source_sha256": "da919057cb039e8aa055e4e1c75c7288ada818280a53e87cf12ef452fc89c209",
+      "normalization_required": true,
+      "scaffold_kind": "private-complete-member-removal"
+    },
+    {
+      "original_inventory": {
+        "owner": "com/aspose/slides/internal/y4/l6",
+        "superclass": "com/aspose/slides/internal/k5/u9",
+        "interfaces": [],
+        "flags": 33,
+        "fields": [
+          [
+            2,
+            "n5",
+            "Lcom/aspose/slides/internal/k5/u9;"
+          ]
+        ],
+        "methods": [
+          [
+            1,
+            "u9",
+            "()Ljava/lang/String;"
+          ],
+          [
+            1,
+            "n5",
+            "(Ljava/lang/String;)V"
+          ],
+          [
+            4,
+            "n5",
+            "(Lcom/aspose/slides/internal/k5/u9;)Z"
+          ]
+        ]
+      },
+      "original_class_sha256": "8a8ca0e644586ac00ecd2732ceb9a1e7ec598235593ebcd7fb1980752a1859d0",
+      "scaffold_descriptor": "(S)V",
+      "source_sha256": "286ff3c7383db132de55c8798cfd8c22210ced8c2ba7df50879a932e9fa374ad",
+      "normalization_required": true,
+      "scaffold_kind": "private-complete-member-removal"
+    },
+    {
+      "original_inventory": {
+        "owner": "com/aspose/slides/internal/y4g/x8",
+        "superclass": "com/aspose/slides/internal/y4g/v8",
+        "interfaces": [],
+        "flags": 33,
+        "fields": [],
+        "methods": []
+      },
+      "original_class_sha256": "04f1afa25f60d40dbf698cd801b1694b151fbcf1a453a7311a7d0b324fca9038",
+      "scaffold_descriptor": "(I)V",
+      "source_sha256": "e4cfc6d224064896532d71f0d4831ee7db5b0ddfa771274846ebc2a5583d0ce9",
+      "normalization_required": true,
+      "scaffold_kind": "private-complete-member-removal"
+    },
+    {
+      "original_inventory": {
+        "owner": "com/aspose/slides/internal/z3b/t2",
+        "superclass": "com/aspose/slides/internal/z3b/k5",
+        "interfaces": [],
+        "flags": 33,
+        "fields": [],
+        "methods": []
+      },
+      "original_class_sha256": "648c42d9010d7ecadb6a1ee3b4f9c71990ac2c86b539f6143ae3878162fa02c2",
+      "scaffold_descriptor": "(Ljava/lang/String;)V",
+      "source_sha256": "59a317baafb30e1ba3d36a54abbd1d60d7043708fa26ac1cca59fc8790ae9830",
+      "normalization_required": true,
+      "scaffold_kind": "private-complete-member-removal"
+    },
+    {
+      "original_inventory": {
+        "owner": "com/aspose/slides/internal/z7/n5",
+        "superclass": "com/aspose/slides/internal/e5/t2",
+        "interfaces": [],
+        "flags": 33,
+        "fields": [
+          [
+            2,
+            "u3",
+            "Ljava/lang/String;"
+          ],
+          [
+            2,
+            "a6",
+            "Lcom/aspose/slides/internal/t1/k7;"
+          ]
+        ],
+        "methods": [
+          [
+            1,
+            "n5",
+            "(Ljava/lang/String;Lcom/aspose/slides/internal/w2/u9;Lcom/aspose/slides/internal/w2/k5;Lcom/aspose/slides/internal/e5/w1;)V"
+          ],
+          [
+            1,
+            "c8",
+            "()V"
+          ],
+          [
+            1,
+            "n5",
+            "(Lcom/aspose/slides/internal/w2/u9;Ljava/lang/String;Ljava/lang/String;)V"
+          ],
+          [
+            17,
+            "h0",
+            "()Ljava/lang/String;"
+          ],
+          [
+            1,
+            "q0",
+            "()Ljava/lang/String;"
+          ],
+          [
+            1,
+            "t4",
+            "()Ljava/lang/String;"
+          ],
+          [
+            1,
+            "z1",
+            "()Ljava/lang/String;"
+          ]
+        ]
+      },
+      "original_class_sha256": "57672bec82e9886f49de85c65b5d26f176a1043e2c0982624c7363b4a72b0d34",
+      "scaffold_descriptor": "(Lcom/aspose/slides/internal/e5/t2;)V",
+      "source_sha256": "a4e6c8cd4ece1f376280989d0b38af5ff18ecef5f02ddc14cda6fe27ae709d93",
+      "normalization_required": true,
+      "scaffold_kind": "private-complete-member-removal"
+    },
+    {
+      "original_inventory": {
+        "owner": "com/aspose/slides/internal/e4/a6",
+        "superclass": "com/aspose/slides/internal/l7/a6$n5",
+        "interfaces": [],
+        "flags": 1057,
+        "fields": [],
+        "methods": [
+          [
+            4,
+            "n3",
+            "()V"
+          ],
+          [
+            1,
+            "x8",
+            "()I"
+          ],
+          [
+            1,
+            "s7",
+            "()Z"
+          ],
+          [
+            1,
+            "n5",
+            "(Lcom/aspose/slides/internal/m9/c8;)I"
+          ]
+        ]
+      },
+      "original_class_sha256": "d2c917577bee36318dc6c67b91a15e442c595a7850c2702cbc25ada38eb9a7a4",
+      "scaffold_descriptor": "(Lcom/aspose/slides/internal/m9/c8;)V",
+      "source_sha256": "b81850cd4881590a930dccf59fb333e93a590b193167241343088002175c2a42",
+      "normalization_required": true,
+      "scaffold_kind": "private-complete-member-removal"
+    },
+    {
+      "original_inventory": {
+        "owner": "com/aspose/slides/internal/q5/n5$n5",
+        "superclass": "com/aspose/slides/internal/l7/a6$n5",
+        "interfaces": [],
+        "flags": 1057,
+        "fields": [
+          [
+            2,
+            "n5",
+            "I"
+          ],
+          [
+            2,
+            "l6",
+            "Lcom/aspose/slides/internal/q5/l6;"
+          ]
+        ],
+        "methods": [
+          [
+            17,
+            "y4",
+            "()Lcom/aspose/slides/internal/q5/l6;"
+          ],
+          [
+            17,
+            "e2",
+            "()I"
+          ],
+          [
+            17,
+            "t9",
+            "()I"
+          ],
+          [
+            17,
+            "z1",
+            "()I"
+          ],
+          [
+            4,
+            "n3",
+            "()V"
+          ],
+          [
+            1,
+            "x8",
+            "()I"
+          ],
+          [
+            1,
+            "s7",
+            "()Z"
+          ],
+          [
+            1,
+            "n5",
+            "(Lcom/aspose/slides/internal/m9/c8;)I"
+          ],
+          [
+            17,
+            "toString",
+            "()Ljava/lang/String;"
+          ]
+        ]
+      },
+      "original_class_sha256": "61b48ba166b59d51c1b698c7cca5db809731f751467322ad6fd02d56463afd4f",
+      "scaffold_descriptor": "(Lcom/aspose/slides/internal/m9/c8;)V",
+      "source_sha256": "0d9055d4de950405372ac8427b50d0e70b2f6bdca568d23c8c2ebd544cacb700",
+      "normalization_required": true,
+      "scaffold_kind": "private-complete-member-removal"
+    }
+  ]
+}

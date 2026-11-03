@@ -1,0 +1,21 @@
+package com.aspose.slides.internal.k4y;
+
+class w3n$1 extends b3$n5 {
+   // $VF: synthetic field
+   final w3n n5;
+
+   w3n$1(w3n var1) {
+      this.n5 = var1;
+   }
+
+   @Override
+   public boolean n5(String var1, String var2) {
+      switch (w3n.n5().n5(var1)) {
+         case 0:
+            w3n.n5(this.n5, var2);
+            return true;
+         default:
+            return false;
+      }
+   }
+}

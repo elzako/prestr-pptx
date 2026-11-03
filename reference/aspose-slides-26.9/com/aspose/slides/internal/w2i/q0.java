@@ -1,0 +1,76 @@
+package com.aspose.slides.internal.w2i;
+
+import com.aspose.slides.ms.System.d5$a6;
+
+final class q0 extends d5$a6 {
+   q0(Class var1, Class var2) {
+      super(var1, var2);
+      this.addConstant("AtoB0Tag", 1093812784L);
+      this.addConstant("AtoB1Tag", 1093812785L);
+      this.addConstant("AtoB2Tag", 1093812786L);
+      this.addConstant("BlueColorantTag", 1649957210L);
+      this.addConstant("BlueMatrixColumnTag", 1649957210L);
+      this.addConstant("BlueTrcTag", 1649693251L);
+      this.addConstant("BtoA0Tag", 1110589744L);
+      this.addConstant("BtoA1Tag", 1110589745L);
+      this.addConstant("BtoA2Tag", 1110589746L);
+      this.addConstant("CalibrationDateTimeTag", 1667329140L);
+      this.addConstant("CharTargetTag", 1952543335L);
+      this.addConstant("ChromaticAdaptationTag", 1667785060L);
+      this.addConstant("ChromaticityTag", 1667789421L);
+      this.addConstant("ColorantOrderTag", 1668051567L);
+      this.addConstant("ColorantTableTag", 1668051572L);
+      this.addConstant("ColorantTableOutTag", 1668050804L);
+      this.addConstant("ColorimetricIntentImageStateTag", 1667852659L);
+      this.addConstant("CopyrightTag", 1668313716L);
+      this.addConstant("CrdInfoTag", 1668441193L);
+      this.addConstant("DataTag", 1684108385L);
+      this.addConstant("DateTimeTag", 1685350765L);
+      this.addConstant("DeviceMfgDescTag", 1684893284L);
+      this.addConstant("DeviceModelDescTag", 1684890724L);
+      this.addConstant("DeviceSettingsTag", 1684371059L);
+      this.addConstant("DtoB0Tag", 1144144432L);
+      this.addConstant("DtoB1Tag", 1144144433L);
+      this.addConstant("DtoB2Tag", 1144144434L);
+      this.addConstant("DtoB3Tag", 1144144435L);
+      this.addConstant("BtoD0Tag", 1110590512L);
+      this.addConstant("BtoD1Tag", 1110590513L);
+      this.addConstant("BtoD2Tag", 1110590514L);
+      this.addConstant("BtoD3Tag", 1110590515L);
+      this.addConstant("GamutTag", 1734438260L);
+      this.addConstant("GrayTrcTag", 1800688195L);
+      this.addConstant("GreenColorantTag", 1733843290L);
+      this.addConstant("GreenMatrixColumnTag", 1733843290L);
+      this.addConstant("GreenTrcTag", 1733579331L);
+      this.addConstant("LuminanceTag", 1819635049L);
+      this.addConstant("MeasurementTag", 1835360627L);
+      this.addConstant("MediaBlackPointTag", 1651208308L);
+      this.addConstant("MediaWhitePointTag", 2004119668L);
+      this.addConstant("NamedColor2Tag", 1852009522L);
+      this.addConstant("OutputResponseTag", 1919251312L);
+      this.addConstant("PerceptualRenderingIntentGamutTag", 1919510320L);
+      this.addConstant("Preview0Tag", 1886545200L);
+      this.addConstant("Preview1Tag", 1886545201L);
+      this.addConstant("Preview2Tag", 1886545202L);
+      this.addConstant("PrintConditionTag", 1886675822L);
+      this.addConstant("ProfileDescriptionTag", 1684370275L);
+      this.addConstant("ProfileSequenceDescTag", 1886610801L);
+      this.addConstant("ProfileSequceIdTag", 1886611812L);
+      this.addConstant("Ps2Crd0Tag", 1886610480L);
+      this.addConstant("Ps2Crd1Tag", 1886610481L);
+      this.addConstant("Ps2Crd2Tag", 1886610482L);
+      this.addConstant("Ps2Crd3Tag", 1886610483L);
+      this.addConstant("Ps2CsaTag", 1886597747L);
+      this.addConstant("Ps2RenderingIntentTag", 1886597737L);
+      this.addConstant("RedColorantTag", 1918392666L);
+      this.addConstant("RedMatrixColumnTag", 1918392666L);
+      this.addConstant("RedTrcTag", 1918128707L);
+      this.addConstant("SaturationRenderingIntentGamutTag", 1919510322L);
+      this.addConstant("ScreeningDescTag", 1935897188L);
+      this.addConstant("ScreeningTag", 1935897198L);
+      this.addConstant("TechnologyTag", 1952801640L);
+      this.addConstant("UcrBgTag", 1650877472L);
+      this.addConstant("ViewingCondDescTag", 1987405156L);
+      this.addConstant("ViewingConditionsTag", 1986618743L);
+   }
+}

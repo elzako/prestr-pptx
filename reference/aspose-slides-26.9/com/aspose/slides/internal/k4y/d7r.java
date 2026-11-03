@@ -1,0 +1,80 @@
+package com.aspose.slides.internal.k4y;
+
+public class d7r {
+   private static final com.aspose.slides.internal.n8e.e2 n5 = new com.aspose.slides.internal.n8e.e2(
+      1,
+      "none",
+      "fade-from-left",
+      "fade-from-top",
+      "fade-from-right",
+      "fade-from-bottom",
+      "fade-from-upperleft",
+      "fade-from-upperright",
+      "fade-from-lowerleft",
+      "fade-from-lowerright",
+      "move-from-left",
+      "move-from-top",
+      "move-from-right",
+      "move-from-bottom",
+      "move-from-upperleft",
+      "move-from-upperright",
+      "move-from-lowerleft",
+      "move-from-lowerright",
+      "uncover-to-left",
+      "uncover-to-top",
+      "uncover-to-right",
+      "uncover-to-bottom",
+      "uncover-to-upperleft",
+      "uncover-to-upperright",
+      "uncover-to-lowerleft",
+      "uncover-to-lowerright",
+      "fade-to-center",
+      "fade-from-center",
+      "vertical-stripes",
+      "horizontal-stripes",
+      "clockwise",
+      "counterclockwise",
+      "open-vertical",
+      "open-horizontal",
+      "close-vertical",
+      "close-horizontal",
+      "wavyline-from-left",
+      "wavyline-from-top",
+      "wavyline-from-right",
+      "wavyline-from-bottom",
+      "spiralin-left",
+      "spiralin-right",
+      "spiralout-left",
+      "spiralout-right",
+      "roll-from-top",
+      "roll-from-left",
+      "roll-from-right",
+      "roll-from-bottom",
+      "stretch-from-left",
+      "stretch-from-top",
+      "stretch-from-right",
+      "stretch-from-bottom",
+      "vertical-lines",
+      "horizontal-lines",
+      "dissolve",
+      "random",
+      "vertical-checkerboard",
+      "horizontal-checkerboard",
+      "interlocking-horizontal-left",
+      "interlocking-horizontal-right",
+      "interlocking-vertical-top",
+      "interlocking-vertical-bottom",
+      "fly-away",
+      "open",
+      "close",
+      "melt"
+   );
+
+   public static int n5(String var0) {
+      return n5.l6(var0) ? n5.n5(var0) : 0;
+   }
+
+   public static String n5(int var0) {
+      return n5.n5(var0);
+   }
+}

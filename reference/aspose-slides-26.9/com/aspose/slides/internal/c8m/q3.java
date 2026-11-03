@@ -1,0 +1,146 @@
+package com.aspose.slides.internal.c8m;
+
+import com.aspose.slides.Collections.Generic.Dictionary;
+
+public class q3 {
+   private static final Dictionary<String, i4> n5 = n5();
+
+   public static i4 n5(String var0) {
+      i4 var1 = null;
+      i4[] var2 = new i4[]{var1};
+      boolean var3 = !n5.tryGetValue(com.aspose.slides.ms.System.d1.u9(var0), var2);
+      var1 = var2[0];
+      if (var3) {
+         var1 = new n0(var0, null);
+      }
+
+      return var1;
+   }
+
+   private static Dictionary<String, i4> n5() {
+      Dictionary var0 = new Dictionary();
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.drawingml.chartshapes+xml"), new q0());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.drawingml.chart+xml"), new z3());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-office.chartcolorstyle+xml"), new t4());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-office.chartstyle+xml"), new m1());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.drawingml.diagramColors+xml"), new s3());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.drawingml.diagramData+xml"), new p8());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.drawingml.diagramLayout+xml"), new i1());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.drawingml.diagramStyle+xml"), new e5());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.drawingml.diagramQuickStyle+xml"), new e5());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.presentationml.tableStyles+xml"), new i8());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.themeOverride+xml"), new b1());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.theme+xml"), new j1());
+      var0.addItem("application/vnd.ms-office.chartex+xml", new k7());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.presentationml.commentAuthors+xml"), new z8());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.presentationml.handoutMaster+xml"), new n1());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.presentationml.notesMaster+xml"), new t3());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.presentationml.notesSlide+xml"), new u4());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.presentationml.presentation.main+xml"), new w9());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-powerpoint.presentation.macroEnabled.main+xml"), new b9());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-powerpoint.template.macroEnabled.main+xml"), new b2());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.presentationml.presProps+xml"), new r5());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.presentationml.template.main+xml"), new x3());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.presentationml.comments+xml"), new z0());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-powerpoint.comments+xml"), new n2());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.presentationml.slideLayout+xml"), new z9());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.presentationml.slideMaster+xml"), new s2());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.presentationml.slide+xml"), new l0());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.presentationml.slideshow.main+xml"), new p9());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-powerpoint.slideshow.macroEnabled.main+xml"), new g8());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.presentationml.tags+xml"), new a4());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.presentationml.viewProps+xml"), new o1());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-powerpoint.authors+xml"), new t2());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-office.activeX"), new n5());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-office.activeX+xml"), new l6());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("audio/unknown"), new a6());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("audio/wav"), new u9());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("audio/x-wav"), new c8());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("audio/mpeg"), new k5());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("audio/x-ms-wma"), new h0());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-package.core-properties+xml"), new y1());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.custom-properties+xml"), new a0());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.customXmlProperties+xml"), new d5());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-package.digital-signature-origin"), new o0());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-excel"), new g7());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.sheet"), new j4());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-excel.sheet.macroEnabled.12"), new v3());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-excel.sheet.binary.macroEnabled.12"), new v8());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.extended-properties+xml"), new i9());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/x-fontdata"), new j3());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("image/bmp"), new p6());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("image/x-emf"), new d1());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("image/gif"), new s4());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("image/jpeg"), new h6());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("image/pict"), new c3());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("image/png"), new l4());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("image/svg"), new i6());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("image/tiff"), new a7());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("image/vnd.ms-photo"), new r1());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("image/unknown"), new r8());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("image/x-wmf"), new k8());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("image/webp"), new y5());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.oleObject"), new y9());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-powerpoint.presentation.macroEnabled.12"), new y6());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-powerpoint"), new n7());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.presentationml.presentation"), new l5());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.presentationml.slide"), new u2());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("text/vtt"), new c7());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("model/gltf.binary"), new o7());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.package"), new o8());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-office.vbaProject"), new t0());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-office.vbaProjectSignature"), new n6());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("video/avi"), new p5());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("video/mpeg"), new b0());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("video/unknown"), new k3());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("video/x-ms-wmv"), new d7());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/msword"), new k1());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.wordprocessingml.document"), new o6());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-office.drawingml.diagramDrawing+xml"), new f2());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.drawingml.diagramDrawing+xml"), new f2());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-package.relationships+xml"), new h1());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/xml"), new k2());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/binary"), new f1());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/unknown"), new n8());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.vmlDrawing"), new m0());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-office.legacyDiagramText"), new q1());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/inkml+xml"), new u8());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-office.inkAction+xml"), new b5());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-package.digital-signature-xmlsignature+xml"), new z7());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-office.DrsDownRev+xml"), new f0());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-office.DrsShape+xml"), new y0());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-office.DrsConnector+xml"), new v0());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-office.DrsE2oDoc+xml"), new a3());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-office.DrsInk+xml"), new p3());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.presentationml.timingInfo+xml"), new j9());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.themeManager+xml"), new m4());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.calcChain+xml"), new z1());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.chartsheet+xml"), new m3());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.connections+xml"), new w1());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.dialogsheet+xml"), new b3());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.drawing+xml"), new h2());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.externalLink+xml"), new f5());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.sheetMetadata+xml"), new c2());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheDefinition+xml"), new q2());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.pivotCacheRecords+xml"), new p4());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.pivotTable+xml"), new d6());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.queryTable+xml"), new h9());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.sharedStrings+xml"), new x0());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.revisionHeaders+xml"), new o2());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.revisionLog+xml"), new e0());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.userNames+xml"), new i2());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.tableSingleCells+xml"), new x7());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.styles+xml"), new b4());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.table+xml"), new x5());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.volatileDependencies+xml"), new o4());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.sheet.main+xml"), new l8());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-excel.sheet.macroEnabled.main+xml"), new s8());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-excel.template.macroEnabled.main+xml"), new i3());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.template.main+xml"), new g1());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-excel.sheet.binary.macroEnabled.main"), new g2());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.comments+xml"), new k4());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.openxmlformats-officedocument.spreadsheetml.worksheet+xml"), new e8());
+      var0.addItem(com.aspose.slides.ms.System.d1.u9("application/vnd.ms-office.classificationlabels+xml"), new w5());
+      return var0;
+   }
+}

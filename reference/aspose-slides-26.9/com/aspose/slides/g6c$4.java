@@ -1,0 +1,22 @@
+package com.aspose.slides;
+
+import com.aspose.slides.internal.c8m.s7$n5;
+
+class g6c$4 extends s7$n5 {
+   // $VF: synthetic field
+   final g6c n5;
+
+   g6c$4(g6c var1) {
+      this.n5 = var1;
+   }
+
+   @Override
+   public String getDelegateId() {
+      return "Aspose.Slides.PptxSerialization.PptxSerializationContext.GetNextAudioVideoFileNumber()";
+   }
+
+   @Override
+   public int n5() {
+      return this.n5.k7();
+   }
+}

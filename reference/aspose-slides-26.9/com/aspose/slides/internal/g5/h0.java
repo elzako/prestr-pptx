@@ -1,0 +1,13 @@
+package com.aspose.slides.internal.g5;
+
+public class h0 extends com.aspose.slides.internal.v6.h0 {
+   public h0(com.aspose.slides.internal.r5.y4 var1) {
+      super(var1);
+   }
+
+   @Override
+   protected void n5(com.aspose.slides.internal.o9b.y2 var1, com.aspose.slides.internal.r6.u9 var2) {
+      com.aspose.slides.internal.e1.r4 var3 = com.aspose.slides.internal.g0.u3.n5(com.aspose.slides.internal.o9b.y1.n5(var1).y4());
+      com.aspose.slides.internal.i5.n5.n5(var2.n5(), var3, var2);
+   }
+}

@@ -1,0 +1,145 @@
+package com.aspose.slides.internal.b7;
+
+public class e6r extends x2 {
+   public e6r(z6e var1) {
+      super(var1);
+   }
+
+   @Override
+   public c2 n5() {
+      double var1 = n5(0.0, this.l6().n5("adj"), 50000.0);
+      double var3 = l6(this.u9().l6().n5() / 2.0, 900000.0);
+      double var5 = l6(this.u9().l6().n5() / 2.0, 1800000.0);
+      double var7 = l6(this.u9().l6().n5() / 2.0, 2700000.0);
+      double var9 = this.u9().l6().n5() / 4.0;
+      double var11 = l6(this.u9().l6().n5() / 2.0, 4500000.0);
+      double var13 = k5(this.u9().l6().l6() / 2.0, 4500000.0);
+      double var15 = k5(this.u9().l6().l6() / 2.0, 3600000.0);
+      double var17 = k5(this.u9().l6().l6() / 2.0, 2700000.0);
+      double var19 = this.u9().l6().l6() / 4.0;
+      double var21 = k5(this.u9().l6().l6() / 2.0, 900000.0);
+      double var23 = k5(this.u9().l6().n5() / 2.0, 0.0, var3);
+      double var25 = k5(this.u9().l6().n5() / 2.0, 0.0, var5);
+      double var27 = k5(this.u9().l6().n5() / 2.0, 0.0, var7);
+      double var29 = k5(this.u9().l6().n5() / 2.0, 0.0, var9);
+      double var31 = k5(this.u9().l6().n5() / 2.0, 0.0, var11);
+      double var33 = k5(this.u9().l6().n5() / 2.0, var11, 0.0);
+      double var35 = k5(this.u9().l6().n5() / 2.0, var9, 0.0);
+      double var37 = k5(this.u9().l6().n5() / 2.0, var7, 0.0);
+      double var39 = k5(this.u9().l6().n5() / 2.0, var5, 0.0);
+      double var41 = k5(this.u9().l6().n5() / 2.0, var3, 0.0);
+      double var43 = k5(this.u9().l6().l6() / 2.0, 0.0, var13);
+      double var45 = k5(this.u9().l6().l6() / 2.0, 0.0, var15);
+      double var47 = k5(this.u9().l6().l6() / 2.0, 0.0, var17);
+      double var49 = k5(this.u9().l6().l6() / 2.0, 0.0, var19);
+      double var51 = k5(this.u9().l6().l6() / 2.0, 0.0, var21);
+      double var53 = k5(this.u9().l6().l6() / 2.0, var21, 0.0);
+      double var55 = k5(this.u9().l6().l6() / 2.0, var19, 0.0);
+      double var57 = k5(this.u9().l6().l6() / 2.0, var17, 0.0);
+      double var59 = k5(this.u9().l6().l6() / 2.0, var15, 0.0);
+      double var61 = k5(this.u9().l6().l6() / 2.0, var13, 0.0);
+      double var63 = l6(this.u9().l6().n5() / 2.0, var1, 50000.0);
+      double var65 = l6(this.u9().l6().l6() / 2.0, var1, 50000.0);
+      double var67 = l6(var63, 99144.0, 100000.0);
+      double var69 = l6(var63, 92388.0, 100000.0);
+      double var71 = l6(var63, 79335.0, 100000.0);
+      double var73 = l6(var63, 60876.0, 100000.0);
+      double var75 = l6(var63, 38268.0, 100000.0);
+      double var77 = l6(var63, 13053.0, 100000.0);
+      double var79 = l6(var65, 99144.0, 100000.0);
+      double var81 = l6(var65, 92388.0, 100000.0);
+      double var83 = l6(var65, 79335.0, 100000.0);
+      double var85 = l6(var65, 60876.0, 100000.0);
+      double var87 = l6(var65, 38268.0, 100000.0);
+      double var89 = l6(var65, 13053.0, 100000.0);
+      double var91 = k5(this.u9().l6().n5() / 2.0, 0.0, var67);
+      double var93 = k5(this.u9().l6().n5() / 2.0, 0.0, var69);
+      double var95 = k5(this.u9().l6().n5() / 2.0, 0.0, var71);
+      double var97 = k5(this.u9().l6().n5() / 2.0, 0.0, var73);
+      double var99 = k5(this.u9().l6().n5() / 2.0, 0.0, var75);
+      double var101 = k5(this.u9().l6().n5() / 2.0, 0.0, var77);
+      double var103 = k5(this.u9().l6().n5() / 2.0, var77, 0.0);
+      double var105 = k5(this.u9().l6().n5() / 2.0, var75, 0.0);
+      double var107 = k5(this.u9().l6().n5() / 2.0, var73, 0.0);
+      double var109 = k5(this.u9().l6().n5() / 2.0, var71, 0.0);
+      double var111 = k5(this.u9().l6().n5() / 2.0, var69, 0.0);
+      double var113 = k5(this.u9().l6().n5() / 2.0, var67, 0.0);
+      double var115 = k5(this.u9().l6().l6() / 2.0, 0.0, var79);
+      double var117 = k5(this.u9().l6().l6() / 2.0, 0.0, var81);
+      double var119 = k5(this.u9().l6().l6() / 2.0, 0.0, var83);
+      double var121 = k5(this.u9().l6().l6() / 2.0, 0.0, var85);
+      double var123 = k5(this.u9().l6().l6() / 2.0, 0.0, var87);
+      double var125 = k5(this.u9().l6().l6() / 2.0, 0.0, var89);
+      double var127 = k5(this.u9().l6().l6() / 2.0, var89, 0.0);
+      double var129 = k5(this.u9().l6().l6() / 2.0, var87, 0.0);
+      double var131 = k5(this.u9().l6().l6() / 2.0, var85, 0.0);
+      double var133 = k5(this.u9().l6().l6() / 2.0, var83, 0.0);
+      double var135 = k5(this.u9().l6().l6() / 2.0, var81, 0.0);
+      double var137 = k5(this.u9().l6().l6() / 2.0, var79, 0.0);
+      double var139 = l6(var63, 2700000.0);
+      double var141 = k5(var65, 2700000.0);
+      double var143 = k5(this.u9().l6().n5() / 2.0, 0.0, var139);
+      double var145 = k5(this.u9().l6().l6() / 2.0, 0.0, var141);
+      double var147 = k5(this.u9().l6().n5() / 2.0, var139, 0.0);
+      double var149 = k5(this.u9().l6().l6() / 2.0, var141, 0.0);
+      double var151 = k5(this.u9().l6().l6() / 2.0, 0.0, var65);
+      c2 var153 = new c2(this.u9());
+      var153.n5(this.u9().l6().n5(), this.u9().l6().l6(), 0, false, true);
+      var153.a6(0.0, this.u9().l6().l6() / 2.0);
+      var153.u9(var91, var125);
+      var153.u9(var23, var51);
+      var153.u9(var93, var123);
+      var153.u9(var25, var49);
+      var153.u9(var95, var121);
+      var153.u9(var27, var47);
+      var153.u9(var97, var119);
+      var153.u9(var29, var45);
+      var153.u9(var99, var117);
+      var153.u9(var31, var43);
+      var153.u9(var101, var115);
+      var153.u9(this.u9().l6().n5() / 2.0, 0.0);
+      var153.u9(var103, var115);
+      var153.u9(var33, var43);
+      var153.u9(var105, var117);
+      var153.u9(var35, var45);
+      var153.u9(var107, var119);
+      var153.u9(var37, var47);
+      var153.u9(var109, var121);
+      var153.u9(var39, var49);
+      var153.u9(var111, var123);
+      var153.u9(var41, var51);
+      var153.u9(var113, var125);
+      var153.u9(this.u9().l6().n5(), this.u9().l6().l6() / 2.0);
+      var153.u9(var113, var127);
+      var153.u9(var41, var53);
+      var153.u9(var111, var129);
+      var153.u9(var39, var55);
+      var153.u9(var109, var131);
+      var153.u9(var37, var57);
+      var153.u9(var107, var133);
+      var153.u9(var35, var59);
+      var153.u9(var105, var135);
+      var153.u9(var33, var61);
+      var153.u9(var103, var137);
+      var153.u9(this.u9().l6().n5() / 2.0, this.u9().l6().l6());
+      var153.u9(var101, var137);
+      var153.u9(var31, var61);
+      var153.u9(var99, var135);
+      var153.u9(var29, var59);
+      var153.u9(var97, var133);
+      var153.u9(var27, var57);
+      var153.u9(var95, var131);
+      var153.u9(var25, var55);
+      var153.u9(var93, var129);
+      var153.u9(var23, var53);
+      var153.u9(var91, var127);
+      var153.a6();
+      var153.n5(new m8(var143, var145, var147, var149));
+      return var153;
+   }
+
+   @Override
+   protected void n5(z3$l6 var1) {
+      var1.l6("adj", 37500.0);
+   }
+}

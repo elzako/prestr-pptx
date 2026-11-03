@@ -1,0 +1,12 @@
+package com.aspose.slides.internal.x8;
+
+public class w2 extends i1 {
+   public w2() {
+      super("required");
+   }
+
+   @Override
+   public boolean n5(com.aspose.slides.internal.j3.z3 var1, String var2) {
+      return !n5(var1) ? false : var1.t2("required");
+   }
+}

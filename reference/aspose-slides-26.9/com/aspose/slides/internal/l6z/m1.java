@@ -1,0 +1,27 @@
+package com.aspose.slides.internal.l6z;
+
+class m1 extends j3 {
+   private long n5;
+   private long l6;
+
+   @Override
+   public int n5() {
+      return 49;
+   }
+
+   @Override
+   protected void l6(com.aspose.slides.internal.z0k.n5 var1) {
+      this.n5 = var1.c4();
+      this.l6 = var1.c4();
+   }
+
+   @Override
+   protected void l6(com.aspose.slides.internal.z0k.l6 var1) {
+      var1.n5(4L);
+      var1.n5(0L);
+   }
+
+   public final long l6() {
+      return this.l6;
+   }
+}

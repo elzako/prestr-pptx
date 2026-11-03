@@ -1,0 +1,74 @@
+package com.aspose.slides.internal.k4y;
+
+import com.aspose.slides.ms.System.d5$a6;
+
+final class d5$1 extends d5$a6 {
+   d5$1(Class var1, Class var2) {
+      super(var1, var2);
+      this.addConstant("NotDefined", -1L);
+      this.addConstant("AlignmentOffset", 0L);
+      this.addConstant("Bottom", 1L);
+      this.addConstant("BeginningMargin", 2L);
+      this.addConstant("BeginningPadding", 3L);
+      this.addConstant("BendingDistance", 4L);
+      this.addConstant("BottomMargin", 5L);
+      this.addConstant("BottomOffset", 6L);
+      this.addConstant("ConnectionDistance", 7L);
+      this.addConstant("CenterX", 8L);
+      this.addConstant("CenterXOffset", 9L);
+      this.addConstant("CenterY", 10L);
+      this.addConstant("CenterYOffset", 11L);
+      this.addConstant("Diameter", 12L);
+      this.addConstant("EndMargin", 13L);
+      this.addConstant("EndPadding", 14L);
+      this.addConstant("Height", 15L);
+      this.addConstant("ArrowheadHeight", 16L);
+      this.addConstant("HeightOffset", 17L);
+      this.addConstant("Left", 18L);
+      this.addConstant("LeftMargin", 19L);
+      this.addConstant("LeftOffset", 20L);
+      this.addConstant("Unknown", 21L);
+      this.addConstant("PrimaryFontSize", 22L);
+      this.addConstant("PyramidAccentRatio", 23L);
+      this.addConstant("Right", 24L);
+      this.addConstant("RightMargin", 25L);
+      this.addConstant("RightOffset", 26L);
+      this.addConstant("SecondaryFontSize", 27L);
+      this.addConstant("SecondarySiblingSpacing", 28L);
+      this.addConstant("SiblingSpacing", 29L);
+      this.addConstant("Spacing", 30L);
+      this.addConstant("StemThickness", 31L);
+      this.addConstant("Top", 32L);
+      this.addConstant("TopMargin", 33L);
+      this.addConstant("TopOffset", 34L);
+      this.addConstant("UserDefinedA", 35L);
+      this.addConstant("UserDefinedB", 36L);
+      this.addConstant("UserDefinedC", 37L);
+      this.addConstant("UserDefinedD", 38L);
+      this.addConstant("UserDefinedE", 39L);
+      this.addConstant("UserDefinedF", 40L);
+      this.addConstant("UserDefinedG", 41L);
+      this.addConstant("UserDefinedH", 42L);
+      this.addConstant("UserDefinedI", 43L);
+      this.addConstant("UserDefinedJ", 44L);
+      this.addConstant("UserDefinedK", 45L);
+      this.addConstant("UserDefinedL", 46L);
+      this.addConstant("UserDefinedM", 47L);
+      this.addConstant("UserDefinedN", 48L);
+      this.addConstant("UserDefinedO", 49L);
+      this.addConstant("UserDefinedP", 50L);
+      this.addConstant("UserDefinedQ", 51L);
+      this.addConstant("UserDefinedR", 52L);
+      this.addConstant("UserDefinedS", 53L);
+      this.addConstant("UserDefinedT", 54L);
+      this.addConstant("UserDefinedU", 55L);
+      this.addConstant("UserDefinedV", 56L);
+      this.addConstant("UserDefinedW", 57L);
+      this.addConstant("UserDefinedX", 58L);
+      this.addConstant("UserDefinedY", 59L);
+      this.addConstant("UserDefinedZ", 60L);
+      this.addConstant("Width", 61L);
+      this.addConstant("ArrowheadWidth", 62L);
+      this.addConstant("WidthOffset", 63L);
+   }
+}

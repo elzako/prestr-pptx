@@ -1,0 +1,69 @@
+package com.aspose.slides.internal.o4;
+
+import com.aspose.slides.ms.System.d5$a6;
+
+final class y4$1 extends d5$a6 {
+   y4$1(Class var1, Class var2) {
+      super(var1, var2);
+      this.addConstant("NewFrame", 1L);
+      this.addConstant("AbortDoc", 2L);
+      this.addConstant("NextBand", 3L);
+      this.addConstant("SetColorTable", 4L);
+      this.addConstant("GetColorTable", 5L);
+      this.addConstant("FlushOut", 6L);
+      this.addConstant("DraftMode", 7L);
+      this.addConstant("QueryEscSupport", 8L);
+      this.addConstant("SetAbortProc", 9L);
+      this.addConstant("StartDoc", 10L);
+      this.addConstant("EndDoc", 11L);
+      this.addConstant("GetPhysPageSize", 12L);
+      this.addConstant("GetPrintingOffset", 13L);
+      this.addConstant("GetScalingFactor", 14L);
+      this.addConstant("MetaEscapeEnhancedMetafile", 15L);
+      this.addConstant("SetPenWidth", 16L);
+      this.addConstant("SetCopyCount", 17L);
+      this.addConstant("SetPaperSource", 18L);
+      this.addConstant("PassThrough", 19L);
+      this.addConstant("GetTechnology", 20L);
+      this.addConstant("SetLineCap", 21L);
+      this.addConstant("SetLineJoin", 22L);
+      this.addConstant("SetMiterLimit", 23L);
+      this.addConstant("BandInfo", 24L);
+      this.addConstant("DrawPatternRect", 25L);
+      this.addConstant("GetVectorPenSize", 26L);
+      this.addConstant("GetVectorBrushSize", 27L);
+      this.addConstant("EnableDuplex", 28L);
+      this.addConstant("GetSetPaperBins", 29L);
+      this.addConstant("GetSetPrintOrient", 30L);
+      this.addConstant("EnumPaperBins", 31L);
+      this.addConstant("SetDibScaling", 32L);
+      this.addConstant("EpsPrinting", 33L);
+      this.addConstant("EnumPaperMetrics", 34L);
+      this.addConstant("GetSetPaperMetrics", 35L);
+      this.addConstant("PostScriptData", 37L);
+      this.addConstant("PostScriptIgnore", 38L);
+      this.addConstant("GetDeviceUnits", 42L);
+      this.addConstant("GetExtendedTextMetrics", 256L);
+      this.addConstant("GetPairKernTable", 258L);
+      this.addConstant("ExtTextOut", 512L);
+      this.addConstant("GetFaceName", 513L);
+      this.addConstant("DownloadFace", 514L);
+      this.addConstant("MetafileDriver", 2049L);
+      this.addConstant("QueryDibSupport", 3073L);
+      this.addConstant("BeginPath", 4096L);
+      this.addConstant("ClipToPath", 4097L);
+      this.addConstant("EndPath", 4098L);
+      this.addConstant("OpenChannel", 4110L);
+      this.addConstant("DownloadHeader", 4111L);
+      this.addConstant("CloseChannel", 4112L);
+      this.addConstant("PostScriptPassThrough", 4115L);
+      this.addConstant("EncapsulatedPostScript", 4116L);
+      this.addConstant("PostScriptIdentify", 4117L);
+      this.addConstant("PostScriptInjection", 4118L);
+      this.addConstant("CheckJpegFormat", 4119L);
+      this.addConstant("CheckPngFormat", 4120L);
+      this.addConstant("GetPsFeatureSetting", 4121L);
+      this.addConstant("MXDCEscape", 4122L);
+      this.addConstant("SpclPassThrough2", 4568L);
+   }
+}

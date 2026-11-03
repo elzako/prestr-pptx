@@ -1,0 +1,429 @@
+package com.aspose.slides.internal.h0;
+
+import com.aspose.slides.internal.s7.a1;
+import com.aspose.slides.internal.s7.a2;
+import com.aspose.slides.internal.s7.a3;
+import com.aspose.slides.internal.s7.a4;
+import com.aspose.slides.internal.s7.a5;
+import com.aspose.slides.internal.s7.a7;
+import com.aspose.slides.internal.s7.a8;
+import com.aspose.slides.internal.s7.a9;
+import com.aspose.slides.internal.s7.b0;
+import com.aspose.slides.internal.s7.b1;
+import com.aspose.slides.internal.s7.b2;
+import com.aspose.slides.internal.s7.b3;
+import com.aspose.slides.internal.s7.b4;
+import com.aspose.slides.internal.s7.b5;
+import com.aspose.slides.internal.s7.b6;
+import com.aspose.slides.internal.s7.b7;
+import com.aspose.slides.internal.s7.b8;
+import com.aspose.slides.internal.s7.b9;
+import com.aspose.slides.internal.s7.c2;
+import com.aspose.slides.internal.s7.c3;
+import com.aspose.slides.internal.s7.c5;
+import com.aspose.slides.internal.s7.c6;
+import com.aspose.slides.internal.s7.c7;
+import com.aspose.slides.internal.s7.c9;
+import com.aspose.slides.internal.s7.d1;
+import com.aspose.slides.internal.s7.d2;
+import com.aspose.slides.internal.s7.d3;
+import com.aspose.slides.internal.s7.d4;
+import com.aspose.slides.internal.s7.d5;
+import com.aspose.slides.internal.s7.d6;
+import com.aspose.slides.internal.s7.d7;
+import com.aspose.slides.internal.s7.d8;
+import com.aspose.slides.internal.s7.d9;
+import com.aspose.slides.internal.s7.e0;
+import com.aspose.slides.internal.s7.e4;
+import com.aspose.slides.internal.s7.e5;
+import com.aspose.slides.internal.s7.e6;
+import com.aspose.slides.internal.s7.e7;
+import com.aspose.slides.internal.s7.e8;
+import com.aspose.slides.internal.s7.e9;
+import com.aspose.slides.internal.s7.f0;
+import com.aspose.slides.internal.s7.f1;
+import com.aspose.slides.internal.s7.f2;
+import com.aspose.slides.internal.s7.f4;
+import com.aspose.slides.internal.s7.f5;
+import com.aspose.slides.internal.s7.f7;
+import com.aspose.slides.internal.s7.f8;
+import com.aspose.slides.internal.s7.g1;
+import com.aspose.slides.internal.s7.g2;
+import com.aspose.slides.internal.s7.g6;
+import com.aspose.slides.internal.s7.g7;
+import com.aspose.slides.internal.s7.g8;
+import com.aspose.slides.internal.s7.g9;
+import com.aspose.slides.internal.s7.h1;
+import com.aspose.slides.internal.s7.h2;
+import com.aspose.slides.internal.s7.h5;
+import com.aspose.slides.internal.s7.h6;
+import com.aspose.slides.internal.s7.h9;
+import com.aspose.slides.internal.s7.i0;
+import com.aspose.slides.internal.s7.i1;
+import com.aspose.slides.internal.s7.i2;
+import com.aspose.slides.internal.s7.i3;
+import com.aspose.slides.internal.s7.i4;
+import com.aspose.slides.internal.s7.i6;
+import com.aspose.slides.internal.s7.i7;
+import com.aspose.slides.internal.s7.i8;
+import com.aspose.slides.internal.s7.i9;
+import com.aspose.slides.internal.s7.j0;
+import com.aspose.slides.internal.s7.j1;
+import com.aspose.slides.internal.s7.j3;
+import com.aspose.slides.internal.s7.j4;
+import com.aspose.slides.internal.s7.j6;
+import com.aspose.slides.internal.s7.j7;
+import com.aspose.slides.internal.s7.j8;
+import com.aspose.slides.internal.s7.j9;
+import com.aspose.slides.internal.s7.k0;
+import com.aspose.slides.internal.s7.k1;
+import com.aspose.slides.internal.s7.k2;
+import com.aspose.slides.internal.s7.k3;
+import com.aspose.slides.internal.s7.k4;
+import com.aspose.slides.internal.s7.k6;
+import com.aspose.slides.internal.s7.k8;
+import com.aspose.slides.internal.s7.k9;
+import com.aspose.slides.internal.s7.l0;
+import com.aspose.slides.internal.s7.l1;
+import com.aspose.slides.internal.s7.l2;
+import com.aspose.slides.internal.s7.l4;
+import com.aspose.slides.internal.s7.l5;
+import com.aspose.slides.internal.s7.l7;
+import com.aspose.slides.internal.s7.l8;
+import com.aspose.slides.internal.s7.m0;
+import com.aspose.slides.internal.s7.m4;
+import com.aspose.slides.internal.s7.m8;
+import com.aspose.slides.internal.s7.m9;
+import com.aspose.slides.internal.s7.n0;
+import com.aspose.slides.internal.s7.n1;
+import com.aspose.slides.internal.s7.n2;
+import com.aspose.slides.internal.s7.n6;
+import com.aspose.slides.internal.s7.n7;
+import com.aspose.slides.internal.s7.n8;
+import com.aspose.slides.internal.s7.n9;
+import com.aspose.slides.internal.s7.o0;
+import com.aspose.slides.internal.s7.o1;
+import com.aspose.slides.internal.s7.o2;
+import com.aspose.slides.internal.s7.o3;
+import com.aspose.slides.internal.s7.o4;
+import com.aspose.slides.internal.s7.o5;
+import com.aspose.slides.internal.s7.o6;
+import com.aspose.slides.internal.s7.o7;
+import com.aspose.slides.internal.s7.o8;
+import com.aspose.slides.internal.s7.o9;
+import com.aspose.slides.internal.s7.p0;
+import com.aspose.slides.internal.s7.p1;
+import com.aspose.slides.internal.s7.p3;
+import com.aspose.slides.internal.s7.p4;
+import com.aspose.slides.internal.s7.p5;
+import com.aspose.slides.internal.s7.p6;
+import com.aspose.slides.internal.s7.p7;
+import com.aspose.slides.internal.s7.p8;
+import com.aspose.slides.internal.s7.p9;
+import com.aspose.slides.internal.s7.q1;
+import com.aspose.slides.internal.s7.q2;
+import com.aspose.slides.internal.s7.q3;
+import com.aspose.slides.internal.s7.q4;
+import com.aspose.slides.internal.s7.q5;
+import com.aspose.slides.internal.s7.q6;
+import com.aspose.slides.internal.s7.q7;
+import com.aspose.slides.internal.s7.q8;
+import com.aspose.slides.internal.s7.q9;
+import com.aspose.slides.internal.s7.r0;
+import com.aspose.slides.internal.s7.r1;
+import com.aspose.slides.internal.s7.r2;
+import com.aspose.slides.internal.s7.r3;
+import com.aspose.slides.internal.s7.r5;
+import com.aspose.slides.internal.s7.r6;
+import com.aspose.slides.internal.s7.r7;
+import com.aspose.slides.internal.s7.r8;
+import com.aspose.slides.internal.s7.r9;
+import com.aspose.slides.internal.s7.s0;
+import com.aspose.slides.internal.s7.s1;
+import com.aspose.slides.internal.s7.s2;
+import com.aspose.slides.internal.s7.s3;
+import com.aspose.slides.internal.s7.s4;
+import com.aspose.slides.internal.s7.s5;
+import com.aspose.slides.internal.s7.s6;
+import com.aspose.slides.internal.s7.s8;
+import com.aspose.slides.internal.s7.s9;
+import com.aspose.slides.internal.s7.t0;
+import com.aspose.slides.internal.s7.t1;
+import com.aspose.slides.internal.s7.t3;
+import com.aspose.slides.internal.s7.t5;
+import com.aspose.slides.internal.s7.t6;
+import com.aspose.slides.internal.s7.t7;
+import com.aspose.slides.internal.s7.u0;
+import com.aspose.slides.internal.s7.u1;
+import com.aspose.slides.internal.s7.u2;
+import com.aspose.slides.internal.s7.u4;
+import com.aspose.slides.internal.s7.u5;
+import com.aspose.slides.internal.s7.u6;
+import com.aspose.slides.internal.s7.u8;
+import com.aspose.slides.internal.s7.v0;
+import com.aspose.slides.internal.s7.v2;
+import com.aspose.slides.internal.s7.v3;
+import com.aspose.slides.internal.s7.v4;
+import com.aspose.slides.internal.s7.v6;
+import com.aspose.slides.internal.s7.v7;
+import com.aspose.slides.internal.s7.v8;
+import com.aspose.slides.internal.s7.v9;
+import com.aspose.slides.internal.s7.w0;
+import com.aspose.slides.internal.s7.w2;
+import com.aspose.slides.internal.s7.w3;
+import com.aspose.slides.internal.s7.w4;
+import com.aspose.slides.internal.s7.w5;
+import com.aspose.slides.internal.s7.w8;
+import com.aspose.slides.internal.s7.w9;
+import com.aspose.slides.internal.s7.x0;
+import com.aspose.slides.internal.s7.x1;
+import com.aspose.slides.internal.s7.x2;
+import com.aspose.slides.internal.s7.x3;
+import com.aspose.slides.internal.s7.x5;
+import com.aspose.slides.internal.s7.x6;
+import com.aspose.slides.internal.s7.x7;
+import com.aspose.slides.internal.s7.x9;
+import com.aspose.slides.internal.s7.y0;
+import com.aspose.slides.internal.s7.y5;
+import com.aspose.slides.internal.s7.y6;
+import com.aspose.slides.internal.s7.y7;
+import com.aspose.slides.internal.s7.y8;
+import com.aspose.slides.internal.s7.y9;
+import com.aspose.slides.internal.s7.z0;
+import com.aspose.slides.internal.s7.z5;
+import com.aspose.slides.internal.s7.z6;
+import com.aspose.slides.internal.s7.z7;
+import com.aspose.slides.internal.s7.z9;
+
+public class r4 {
+   private static final com.aspose.slides.internal.n3.m1[] n5 = new com.aspose.slides.internal.n3.m1[]{
+      new com.aspose.slides.internal.s7.s7(),
+      new com.aspose.slides.internal.s7.u3(),
+      new com.aspose.slides.internal.s7.u9(),
+      new com.aspose.slides.internal.s7.t2(),
+      new com.aspose.slides.internal.s7.x8(),
+      new com.aspose.slides.internal.s7.h0(),
+      new com.aspose.slides.internal.s7.a6(),
+      new com.aspose.slides.internal.s7.n3(),
+      new com.aspose.slides.internal.s7.c8(),
+      new com.aspose.slides.internal.s7.m3(),
+      new com.aspose.slides.internal.s7.j5(),
+      new com.aspose.slides.internal.s7.z8(),
+      new d5(),
+      new com.aspose.slides.internal.s7.k7(),
+      new z7(),
+      new p8(),
+      new com.aspose.slides.internal.s7.e2(),
+      new com.aspose.slides.internal.s7.y2(),
+      new o0(),
+      new a5(),
+      new i1(),
+      new com.aspose.slides.internal.s7.q0(),
+      new com.aspose.slides.internal.s7.a0(),
+      new v0(),
+      new h2(),
+      new e5(),
+      new com.aspose.slides.internal.s7.z3(),
+      new d2(),
+      new u6(),
+      new f2(),
+      new com.aspose.slides.internal.s7.z1(),
+      new com.aspose.slides.internal.s7.y1(),
+      new com.aspose.slides.internal.s7.m1(),
+      new b3(),
+      new com.aspose.slides.internal.s7.w1(),
+      new v4(),
+      new t1(),
+      new com.aspose.slides.internal.s7.t4(),
+      new com.aspose.slides.internal.s7.t9(),
+      new s3(),
+      new a3(),
+      new com.aspose.slides.internal.s7.r4(),
+      new com.aspose.slides.internal.s7.c4(),
+      new q4(),
+      new o6(),
+      new f0(),
+      new j6(),
+      new s1(),
+      new k3(),
+      new a7(),
+      new z6(),
+      new u4(),
+      new x0(),
+      new e0(),
+      new o2(),
+      new t6(),
+      new v6(),
+      new r9(),
+      new w4(),
+      new c7(),
+      new o7(),
+      new v9(),
+      new l5(),
+      new e6(),
+      new s2(),
+      new f8(),
+      new l0(),
+      new n2(),
+      new s5(),
+      new j1(),
+      new k6(),
+      new m4(),
+      new e9(),
+      new i6(),
+      new w9(),
+      new m8(),
+      new j0(),
+      new u1(),
+      new v2(),
+      new b7(),
+      new q8(),
+      new r3(),
+      new p1(),
+      new q7(),
+      new w0(),
+      new f7(),
+      new q5(),
+      new u0(),
+      new q9(),
+      new r2(),
+      new x6(),
+      new m9(),
+      new n7(),
+      new x2(),
+      new b1(),
+      new o9(),
+      new a9(),
+      new d8(),
+      new g6(),
+      new s6(),
+      new o3(),
+      new u2(),
+      new e4(),
+      new b9(),
+      new k9(),
+      new j9(),
+      new u5(),
+      new l1(),
+      new o5(),
+      new b4(),
+      new x5(),
+      new e7(),
+      new f1(),
+      new n0(),
+      new k2(),
+      new t3(),
+      new c2(),
+      new i3(),
+      new y0(),
+      new p3(),
+      new x9(),
+      new j3(),
+      new w2(),
+      new s0(),
+      new j8(),
+      new i9(),
+      new f5(),
+      new v3(),
+      new v8(),
+      new g7(),
+      new j4(),
+      new i2(),
+      new z9(),
+      new z0(),
+      new x7(),
+      new l4(),
+      new i8(),
+      new x3(),
+      new b2(),
+      new a4(),
+      new y6(),
+      new d6(),
+      new a1(),
+      new w3(),
+      new i4(),
+      new q3(),
+      new q2(),
+      new p4(),
+      new y9(),
+      new f4(),
+      new p7(),
+      new a8(),
+      new s9(),
+      new t7(),
+      new h5(),
+      new z5(),
+      new r7(),
+      new n9(),
+      new h1(),
+      new a2(),
+      new n1(),
+      new d7(),
+      new p6(),
+      new d1(),
+      new s4(),
+      new p9(),
+      new o8(),
+      new com.aspose.slides.internal.s7.n5(),
+      new com.aspose.slides.internal.s7.y4(),
+      new r1(),
+      new k8(),
+      new u8(),
+      new w5(),
+      new com.aspose.slides.internal.s7.l6(),
+      new b5(),
+      new y5(),
+      new t5(),
+      new r8(),
+      new l7(),
+      new r6(),
+      new r5(),
+      new h9(),
+      new p0(),
+      new b8(),
+      new g8(),
+      new d9(),
+      new i0(),
+      new c5(),
+      new y7(),
+      new i7(),
+      new c6(),
+      new x1(),
+      new g2(),
+      new s8(),
+      new l8(),
+      new com.aspose.slides.internal.s7.k5(),
+      new c3(),
+      new y8(),
+      new h6(),
+      new d4(),
+      new k0(),
+      new q1(),
+      new n6(),
+      new t0(),
+      new n8(),
+      new b0(),
+      new r0(),
+      new v7(),
+      new k1(),
+      new c9(),
+      new k4(),
+      new p5(),
+      new g1(),
+      new e8(),
+      new b6(),
+      new o4(),
+      new o1(),
+      new m0(),
+      new l2(),
+      new q6(),
+      new j7(),
+      new g9(),
+      new w8(),
+      new d3()
+   };
+
+   public final com.aspose.slides.internal.n3.m1[] n5() {
+      return n5;
+   }
+}

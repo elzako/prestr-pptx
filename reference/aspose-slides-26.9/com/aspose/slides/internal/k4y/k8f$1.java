@@ -1,0 +1,180 @@
+package com.aspose.slides.internal.k4y;
+
+class k8f$1 extends b3$n5 {
+   // $VF: synthetic field
+   final k8f n5;
+
+   k8f$1(k8f var1) {
+      this.n5 = var1;
+   }
+
+   @Override
+   public boolean n5(String var1, String var2) {
+      switch (k8f.m1().n5(var1)) {
+         case 0:
+            k8f.n5(this.n5, var2);
+            return true;
+         case 1:
+            k8f.l6(this.n5, var2);
+            return true;
+         case 2:
+            k8f.k5(this.n5, var2);
+            return true;
+         case 3:
+            k8f.u3(this.n5, var2);
+            return true;
+         case 4:
+            k8f.a6(this.n5, var2);
+            return true;
+         case 5:
+            k8f.u9(this.n5, var2);
+            return true;
+         case 6:
+            k8f.h0(this.n5, var2);
+            return true;
+         case 7:
+            k8f.c8(this.n5, var2);
+            return true;
+         case 8:
+            k8f.t2(this.n5, var2);
+            return true;
+         case 9:
+            k8f.s7(this.n5, var2);
+            return true;
+         case 10:
+            k8f.n5(this.n5, r5b.n5(var2));
+            return true;
+         case 11:
+            k8f.x8(this.n5, var2);
+            return true;
+         case 12:
+            k8f.l6(this.n5, m4w.n5(var2));
+            return true;
+         case 13:
+            k8f.k5(this.n5, com.aspose.slides.ms.System.Xml.f4.e2(var2));
+            return true;
+         case 14:
+            k8f.u3(this.n5, m4w.n5(var2));
+            return true;
+         case 15:
+            k8f.a6(this.n5, m4w.n5(var2));
+            return true;
+         case 16:
+            k8f.u9(this.n5, m4w.n5(var2));
+            return true;
+         case 17:
+            k8f.h0(this.n5, m4w.n5(var2));
+            return true;
+         case 18:
+            k8f.c8(this.n5, m4w.n5(var2));
+            return true;
+         case 19:
+            k8f.t2(this.n5, m4w.n5(var2));
+            return true;
+         case 20:
+            k8f.s7(this.n5, m4w.n5(var2));
+            return true;
+         case 21:
+            k8f.n5(this.n5, (float)b3.e2(var2));
+            return true;
+         case 22:
+            k8f.x8(this.n5, h5s.n5(var2));
+            return true;
+         case 23:
+            k8f.n3(this.n5, m4w.n5(var2));
+            return true;
+         case 24:
+            k8f.y4(this.n5, m4w.n5(var2));
+            return true;
+         case 25:
+            k8f.e2(this.n5, m4w.n5(var2));
+            return true;
+         case 26:
+            k8f.n3(this.n5, var2);
+            return true;
+         case 27:
+            k8f.y4(this.n5, var2);
+            return true;
+         case 28:
+            k8f.e2(this.n5, var2);
+            return true;
+         case 29:
+            k8f.t9(this.n5, var2);
+            return true;
+         case 30:
+            k8f.t9(this.n5, com.aspose.slides.ms.System.Xml.f4.e2(var2));
+            return true;
+         case 31:
+            k8f.z1(this.n5, com.aspose.slides.ms.System.Xml.f4.e2(var2));
+            return true;
+         case 32:
+            k8f.t4(this.n5, com.aspose.slides.ms.System.Xml.f4.e2(var2));
+            return true;
+         case 33:
+            k8f.q0(this.n5, u2p.n5(var2));
+            return true;
+         case 34:
+            k8f.z1(this.n5, var2);
+            return true;
+         case 35:
+            k8f.z3(this.n5, r5b.n5(var2));
+            return true;
+         case 36:
+            k8f.t4(this.n5, var2);
+            return true;
+         case 37:
+            k8f.q0(this.n5, var2);
+            return true;
+         case 38:
+            k8f.m1(this.n5, r5b.n5(var2));
+            return true;
+         case 39:
+            k8f.z3(this.n5, var2);
+            return true;
+         case 40:
+            k8f.m1(this.n5, var2);
+            return true;
+         case 41:
+            k8f.k7(this.n5, r5b.n5(var2));
+            return true;
+         case 42:
+            k8f.l6(this.n5, (float)b3.e2(var2));
+            return true;
+         case 43:
+            k8f.m3(this.n5, r8k.n5(var2));
+            return true;
+         case 44:
+            k8f.z8(this.n5, p6.n5(var2));
+            return true;
+         case 45:
+            k8f.j5(this.n5, p6.n5(var2));
+            return true;
+         case 46:
+            k8f.w1(this.n5, p6.n5(var2));
+            return true;
+         case 47:
+            k8f.r4(this.n5, m4w.n5(var2));
+            return true;
+         case 48:
+            k8f.c4(this.n5, m4w.n5(var2));
+            return true;
+         case 49:
+            k8f.y2(this.n5, o6n.n5(var2));
+            return true;
+         case 50:
+            k8f.y1(this.n5, m4w.n5(var2));
+            return true;
+         case 51:
+            k8f.a0(this.n5, m4w.n5(var2));
+            return true;
+         case 52:
+            k8f.d2(this.n5, m4w.n5(var2));
+            return true;
+         case 53:
+            k8f.k7(this.n5, var2);
+            return true;
+         default:
+            return false;
+      }
+   }
+}

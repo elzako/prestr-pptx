@@ -1,0 +1,20 @@
+package com.aspose.slides.internal.u0b;
+
+public class p3 {
+   public static com.aspose.slides.internal.y5s.w1 n5(com.aspose.slides.internal.z0k.n5 var0) {
+      return new com.aspose.slides.internal.y5s.w1(var0.k7(), var0.k7(), var0.k7(), var0.k7());
+   }
+
+   public static com.aspose.slides.internal.y5s.j5[] n5(int var0, com.aspose.slides.internal.z0k.n5 var1) {
+      com.aspose.slides.internal.y5s.j5[] var2 = (com.aspose.slides.internal.y5s.j5[])com.aspose.slides.ms.System.u3.n5(
+         com.aspose.slides.ms.System.u3.n5(com.aspose.slides.internal.v6g.k5.n5(com.aspose.slides.internal.y5s.j5.class), var0)
+      );
+
+      for (int var3 = 0; var3 < var2.length; var3++) {
+         com.aspose.slides.internal.y5s.j5 var4 = new com.aspose.slides.internal.y5s.j5(var1.k7(), var1.k7(), var1.k7(), var1.k7());
+         var4.n5(var2[var3]);
+      }
+
+      return var2;
+   }
+}

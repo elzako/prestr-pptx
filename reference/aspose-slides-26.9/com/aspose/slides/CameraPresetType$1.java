@@ -1,0 +1,72 @@
+package com.aspose.slides;
+
+import com.aspose.slides.ms.System.d5$a6;
+
+final class CameraPresetType$1 extends d5$a6 {
+   CameraPresetType$1(Class var1, Class var2) {
+      super(var1, var2);
+      this.addConstant("NotDefined", -1L);
+      this.addConstant("IsometricBottomDown", 0L);
+      this.addConstant("IsometricBottomUp", 1L);
+      this.addConstant("IsometricLeftDown", 2L);
+      this.addConstant("IsometricLeftUp", 3L);
+      this.addConstant("IsometricOffAxis1Left", 4L);
+      this.addConstant("IsometricOffAxis1Right", 5L);
+      this.addConstant("IsometricOffAxis1Top", 6L);
+      this.addConstant("IsometricOffAxis2Left", 7L);
+      this.addConstant("IsometricOffAxis2Right", 8L);
+      this.addConstant("IsometricOffAxis2Top", 9L);
+      this.addConstant("IsometricOffAxis3Bottom", 10L);
+      this.addConstant("IsometricOffAxis3Left", 11L);
+      this.addConstant("IsometricOffAxis3Right", 12L);
+      this.addConstant("IsometricOffAxis4Bottom", 13L);
+      this.addConstant("IsometricOffAxis4Left", 14L);
+      this.addConstant("IsometricOffAxis4Right", 15L);
+      this.addConstant("IsometricRightDown", 16L);
+      this.addConstant("IsometricRightUp", 17L);
+      this.addConstant("IsometricTopDown", 18L);
+      this.addConstant("IsometricTopUp", 19L);
+      this.addConstant("LegacyObliqueBottom", 20L);
+      this.addConstant("LegacyObliqueBottomLeft", 21L);
+      this.addConstant("LegacyObliqueBottomRight", 22L);
+      this.addConstant("LegacyObliqueFront", 23L);
+      this.addConstant("LegacyObliqueLeft", 24L);
+      this.addConstant("LegacyObliqueRight", 25L);
+      this.addConstant("LegacyObliqueTop", 26L);
+      this.addConstant("LegacyObliqueTopLeft", 27L);
+      this.addConstant("LegacyObliqueTopRight", 28L);
+      this.addConstant("LegacyPerspectiveBottom", 29L);
+      this.addConstant("LegacyPerspectiveBottomLeft", 30L);
+      this.addConstant("LegacyPerspectiveBottomRight", 31L);
+      this.addConstant("LegacyPerspectiveFront", 32L);
+      this.addConstant("LegacyPerspectiveLeft", 33L);
+      this.addConstant("LegacyPerspectiveRight", 34L);
+      this.addConstant("LegacyPerspectiveTop", 35L);
+      this.addConstant("LegacyPerspectiveTopLeft", 36L);
+      this.addConstant("LegacyPerspectiveTopRight", 37L);
+      this.addConstant("ObliqueBottom", 38L);
+      this.addConstant("ObliqueBottomLeft", 39L);
+      this.addConstant("ObliqueBottomRight", 40L);
+      this.addConstant("ObliqueLeft", 41L);
+      this.addConstant("ObliqueRight", 42L);
+      this.addConstant("ObliqueTop", 43L);
+      this.addConstant("ObliqueTopLeft", 44L);
+      this.addConstant("ObliqueTopRight", 45L);
+      this.addConstant("OrthographicFront", 46L);
+      this.addConstant("PerspectiveAbove", 47L);
+      this.addConstant("PerspectiveAboveLeftFacing", 48L);
+      this.addConstant("PerspectiveAboveRightFacing", 49L);
+      this.addConstant("PerspectiveBelow", 50L);
+      this.addConstant("PerspectiveContrastingLeftFacing", 51L);
+      this.addConstant("PerspectiveContrastingRightFacing", 52L);
+      this.addConstant("PerspectiveFront", 53L);
+      this.addConstant("PerspectiveHeroicExtremeLeftFacing", 54L);
+      this.addConstant("PerspectiveHeroicExtremeRightFacing", 55L);
+      this.addConstant("PerspectiveHeroicLeftFacing", 56L);
+      this.addConstant("PerspectiveHeroicRightFacing", 57L);
+      this.addConstant("PerspectiveLeft", 58L);
+      this.addConstant("PerspectiveRelaxed", 59L);
+      this.addConstant("PerspectiveRelaxedModerately", 60L);
+      this.addConstant("PerspectiveRight", 61L);
+   }
+}

@@ -1,0 +1,32 @@
+package com.aspose.slides.internal.i3;
+
+public class q0 extends v4 {
+   private int n5;
+   private int l6;
+
+   public q0(v4 var1) {
+      super(var1);
+   }
+
+   public q0(q0 var1) {
+      super(var1);
+      this.n5(var1.n5());
+      this.l6(var1.l6());
+   }
+
+   public final int n5() {
+      return this.n5;
+   }
+
+   public final void n5(int var1) {
+      this.n5 = var1;
+   }
+
+   public final int l6() {
+      return this.l6;
+   }
+
+   public final void l6(int var1) {
+      this.l6 = var1;
+   }
+}

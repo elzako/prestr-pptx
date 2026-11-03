@@ -1,0 +1,42 @@
+package com.aspose.slides.internal.g7;
+
+class a3 {
+   public boolean n5;
+   public long l6;
+   public long k5;
+   public long u3;
+   public long a6;
+   public long u9;
+   public long h0;
+   public boolean c8;
+   public long t2;
+   public long s7 = -100L;
+   public long x8 = 50L;
+   public int n3;
+   public int y4 = 2;
+   public v2 e2 = null;
+   public static final v2 t9 = new v2(new double[]{0.001, 0.0, 0.0, 0.001, 0.0, 0.0});
+   public long z1 = Long.MIN_VALUE;
+   public z9 t4 = new z9(0.0, 0.0, 0.0, 0.0);
+   public long q0;
+   public double[] z3 = new double[0];
+   public long m1;
+   public long k7;
+   public long m3 = Long.MIN_VALUE;
+   public long z8 = Long.MIN_VALUE;
+   public long j5 = Long.MIN_VALUE;
+   public long w1 = Long.MIN_VALUE;
+   public long r4;
+   public long c4;
+   public long y2;
+   public long y1;
+   public long a0 = Long.MIN_VALUE;
+   public long d2;
+   public long d5;
+   public long s3;
+   public long p8 = 8720L;
+   public long f2 = Long.MIN_VALUE;
+   public long i1 = Long.MIN_VALUE;
+   public long e5 = Long.MIN_VALUE;
+   public long b3;
+}

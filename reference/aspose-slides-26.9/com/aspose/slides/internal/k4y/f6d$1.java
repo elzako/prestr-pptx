@@ -1,0 +1,24 @@
+package com.aspose.slides.internal.k4y;
+
+class f6d$1 extends b3$n5 {
+   // $VF: synthetic field
+   final f6d n5;
+
+   f6d$1(f6d var1) {
+      this.n5 = var1;
+   }
+
+   @Override
+   public boolean n5(String var1, String var2) {
+      switch (f6d.n5().n5(var1)) {
+         case 0:
+            f6d.n5(this.n5, var2);
+            return true;
+         case 1:
+            f6d.n5(this.n5, o4a.n5(var2));
+            return true;
+         default:
+            return false;
+      }
+   }
+}

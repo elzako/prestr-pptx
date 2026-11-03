@@ -1,0 +1,174 @@
+package com.aspose.slides.internal.k4y;
+
+class v5n$1 extends b3$n5 {
+   // $VF: synthetic field
+   final v5n n5;
+
+   v5n$1(v5n var1) {
+      this.n5 = var1;
+   }
+
+   @Override
+   public boolean n5(String var1, String var2) {
+      switch (v5n.k7().n5(var1)) {
+         case 0:
+            v5n.n5(this.n5, var2);
+            return true;
+         case 1:
+            v5n.l6(this.n5, var2);
+            return true;
+         case 2:
+            v5n.k5(this.n5, var2);
+            return true;
+         case 3:
+            v5n.n5(this.n5, b3.z1(var2));
+            return true;
+         case 4:
+            v5n.n5(this.n5, g6k.n5(var2));
+            return true;
+         case 5:
+            v5n.l6(this.n5, r4v.n5(var2));
+            return true;
+         case 6:
+            v5n.l6(this.n5, b3.z1(var2));
+            return true;
+         case 7:
+            v5n.k5(this.n5, i3z.n5(var2));
+            return true;
+         case 8:
+            v5n.n5(this.n5, b3.q0(var2));
+            return true;
+         case 9:
+            v5n.l6(this.n5, b3.q0(var2));
+            return true;
+         case 10:
+            v5n.u3(this.n5, var2);
+            return true;
+         case 11:
+            v5n.u3(this.n5, r9a.n5(var2));
+            return true;
+         case 12:
+            v5n.a6(this.n5, var2);
+            return true;
+         case 13:
+            v5n.k5(this.n5, b3.z1(var2));
+            return true;
+         case 14:
+            v5n.u9(this.n5, var2);
+            return true;
+         case 15:
+            v5n.h0(this.n5, var2);
+            return true;
+         case 16:
+            v5n.c8(this.n5, var2);
+            return true;
+         case 17:
+            v5n.u3(this.n5, b3.z1(var2));
+            return true;
+         case 18:
+            v5n.t2(this.n5, var2);
+            return true;
+         case 19:
+            v5n.s7(this.n5, var2);
+            return true;
+         case 20:
+            v5n.x8(this.n5, var2);
+            return true;
+         case 21:
+            v5n.a6(this.n5, g4c.n5(var2));
+            return true;
+         case 22:
+            v5n.u9(this.n5, w7s.n5(var2));
+            return true;
+         case 23:
+            v5n.n3(this.n5, var2);
+            return true;
+         case 24:
+            v5n.y4(this.n5, var2);
+            return true;
+         case 25:
+            v5n.e2(this.n5, var2);
+            return true;
+         case 26:
+            v5n.t9(this.n5, var2);
+            return true;
+         case 27:
+            v5n.z1(this.n5, var2);
+            return true;
+         case 28:
+            v5n.t4(this.n5, var2);
+            return true;
+         case 29:
+            v5n.q0(this.n5, var2);
+            return true;
+         case 30:
+            v5n.z3(this.n5, var2);
+            return true;
+         case 31:
+            v5n.m1(this.n5, var2);
+            return true;
+         case 32:
+            v5n.k7(this.n5, var2);
+            return true;
+         case 33:
+            v5n.m3(this.n5, var2);
+            return true;
+         case 34:
+            v5n.z8(this.n5, var2);
+            return true;
+         case 35:
+            v5n.j5(this.n5, var2);
+            return true;
+         case 36:
+            v5n.w1(this.n5, var2);
+            return true;
+         case 37:
+            v5n.r4(this.n5, var2);
+            return true;
+         case 38:
+            v5n.c4(this.n5, var2);
+            return true;
+         case 39:
+            v5n.y2(this.n5, var2);
+            return true;
+         case 40:
+            v5n.h0(this.n5, i7r.n5(var2));
+            return true;
+         case 41:
+            v5n.n5(this.n5, com.aspose.slides.ms.System.Xml.f4.t2(var2));
+            return true;
+         case 42:
+            v5n.k5(this.n5, b3.q0(var2));
+            return true;
+         case 43:
+            v5n.c8(this.n5, q4x.n5(var2));
+            return true;
+         case 44:
+            v5n.t2(this.n5, n7q.n5(var2));
+            return true;
+         case 45:
+            v5n.s7(this.n5, x3w.n5(var2));
+            return true;
+         case 46:
+            v5n.x8(this.n5, g0u.n5(var2));
+            return true;
+         case 47:
+            v5n.n3(this.n5, w6i.n5(var2));
+            return true;
+         case 48:
+            v5n.a6(this.n5, b3.z1(var2));
+            return true;
+         case 49:
+            v5n.u9(this.n5, b3.z1(var2));
+            return true;
+         case 50:
+            v5n.y1(this.n5, var2);
+            return true;
+         case 51:
+            v5n.a0(this.n5, var2);
+            return true;
+         default:
+            return false;
+      }
+   }
+}

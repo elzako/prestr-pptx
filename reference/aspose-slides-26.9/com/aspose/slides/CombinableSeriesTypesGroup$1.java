@@ -1,0 +1,70 @@
+package com.aspose.slides;
+
+import com.aspose.slides.ms.System.d5$a6;
+
+final class CombinableSeriesTypesGroup$1 extends d5$a6 {
+   CombinableSeriesTypesGroup$1(Class var1, Class var2) {
+      super(var1, var2);
+      this.addConstant("AreaChart_Area", 4L);
+      this.addConstant("AreaChart_PercentsStackedArea", 5L);
+      this.addConstant("AreaChart_StackedArea", 6L);
+      this.addConstant("AreaChart_Area3D", 24L);
+      this.addConstant("AreaChart_StackedArea3D", 25L);
+      this.addConstant("AreaChart_PercentsStackedArea3D", 26L);
+      this.addConstant("LineChart_Line", 13L);
+      this.addConstant("LineChart_StackedLine", 14L);
+      this.addConstant("LineChart_PercentsStackedLine", 15L);
+      this.addConstant("Line3DChart", 27L);
+      this.addConstant("StockHighLowClose", 18L);
+      this.addConstant("StockOpenHighLowClose", 19L);
+      this.addConstant("StockVolumeHighLowClose", 20L);
+      this.addConstant("StockVolumeOpenHighLowClose", 21L);
+      this.addConstant("RadarChart", 16L);
+      this.addConstant("FilledRadarChart", 17L);
+      this.addConstant("ScatterStraightMarker", 22L);
+      this.addConstant("ScatterSmoothMarker", 23L);
+      this.addConstant("PieChart", 3L);
+      this.addConstant("Pie3DChart", 28L);
+      this.addConstant("DoughnutChart", 2L);
+      this.addConstant("BarChart_VertClustered", 10L);
+      this.addConstant("BarChart_VertStacked", 11L);
+      this.addConstant("BarChart_VertPercentsStacked", 12L);
+      this.addConstant("BarChart_HorizClustered", 7L);
+      this.addConstant("BarChart_HorizStacked", 8L);
+      this.addConstant("BarChart_HorizPercentsStacked", 9L);
+      this.addConstant("Bar3DChart_Vert", 29L);
+      this.addConstant("Bar3DChart_VertClustered", 30L);
+      this.addConstant("Bar3DChart_VertPercentsStackedColumn3D", 31L);
+      this.addConstant("Bar3DChart_VertPercentsStackedCone", 32L);
+      this.addConstant("Bar3DChart_VertPercentsStackedCylinder", 33L);
+      this.addConstant("Bar3DChart_VertPercentsStackedPyramid", 34L);
+      this.addConstant("Bar3DChart_VertStackedColumn3D", 35L);
+      this.addConstant("Bar3DChart_VertStackedCone", 36L);
+      this.addConstant("Bar3DChart_VertStackedCylinder", 37L);
+      this.addConstant("Bar3DChart_VertStackedPyramid", 38L);
+      this.addConstant("Bar3DChart_HorizClustered", 39L);
+      this.addConstant("Bar3DChart_HorizStackedBar3D", 40L);
+      this.addConstant("Bar3DChart_HorizStackedCone", 41L);
+      this.addConstant("Bar3DChart_HorizStackedCylinder", 42L);
+      this.addConstant("Bar3DChart_HorizStackedPyramid", 43L);
+      this.addConstant("Bar3DChart_HorizPercentsStackedBar3D", 44L);
+      this.addConstant("Bar3DChart_HorizPercentsStackedCone", 45L);
+      this.addConstant("Bar3DChart_HorizPercentsStackedCylinder", 46L);
+      this.addConstant("Bar3DChart_HorizPercentsStackedPyramid", 47L);
+      this.addConstant("BarOfPieChart", 0L);
+      this.addConstant("PieOfPieChart", 1L);
+      this.addConstant("SurfaceChart_Contour", 48L);
+      this.addConstant("SurfaceChart_WireframeContour", 49L);
+      this.addConstant("SurfaceChart_Surface3D", 50L);
+      this.addConstant("SurfaceChart_WireframeSurface3D", 51L);
+      this.addConstant("BubbleChart", 52L);
+      this.addConstant("HistogramChart", 53L);
+      this.addConstant("ParetoLineChart", 54L);
+      this.addConstant("BoxAndWhiskerChart", 55L);
+      this.addConstant("WaterfallChart", 56L);
+      this.addConstant("FunnelChart", 57L);
+      this.addConstant("TreemapChart", 58L);
+      this.addConstant("MapChart", 59L);
+      this.addConstant("SunburstChart", 60L);
+   }
+}

@@ -1,0 +1,55 @@
+package com.aspose.slides.internal.v4;
+
+import com.aspose.slides.ms.System.d1;
+
+public class r4 extends com.aspose.slides.internal.e5.t9 {
+   private static boolean u9 = false;
+   private boolean h0 = false;
+   private boolean c8 = false;
+
+   public r4(com.aspose.slides.internal.e5.t2 var1) {
+      super(var1);
+      if (!u9) {
+         this.y4().u9(this, this.t9(), this.t9(), this.m_());
+         u9 = true;
+      }
+   }
+
+   @Override
+   public void c8() {
+      if (!this.h0 || !this.c8) {
+         this.l6("(multi-property-set+, wrapper)");
+      }
+   }
+
+   @Override
+   public void n5(com.aspose.slides.internal.w2.u9 var1, String var2, String var3) {
+      if (d1.a6("http://www.w3.org/1999/XSL/Format", var2)) {
+         if (d1.a6(var3, "multi-property-set")) {
+            if (this.c8) {
+               this.l6(var1, "fo:multi-property-set", "fo:wrapper");
+            } else {
+               this.h0 = true;
+            }
+         } else if (d1.a6(var3, "wrapper")) {
+            if (this.c8) {
+               this.n5(var1, "fo:wrapper");
+            } else {
+               this.c8 = true;
+            }
+         } else {
+            this.k5(var1, var2, var3);
+         }
+      }
+   }
+
+   @Override
+   public String z1() {
+      return "multi-properties";
+   }
+
+   @Override
+   public int z3() {
+      return 46;
+   }
+}
